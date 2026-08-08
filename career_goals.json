@@ -1,0 +1,32 @@
+{
+  "career_goals": [
+    {
+      "goal": "Software Developer",
+      "category": "Technology",
+      "skills_required": ["Python", "Java", "SQL", "Data Structures", "Git"],
+      "education_preference": "Computer Science or related degree",
+      "experience_level": "Entry Level"
+    },
+    {
+      "goal": "Data Analyst",
+      "category": "Data",
+      "skills_required": ["Excel", "SQL", "Python", "Statistics", "Power BI"],
+      "education_preference": "Any degree with analytical interest",
+      "experience_level": "Entry Level"
+    },
+    {
+      "goal": "Digital Marketing Specialist",
+      "category": "Marketing",
+      "skills_required": ["SEO", "Content Writing", "Social Media", "Analytics"],
+      "education_preference": "Any degree",
+      "experience_level": "Entry Level"
+    },
+    {
+      "goal": "UI/UX Designer",
+      "category": "Design",
+      "skills_required": ["Figma", "UI Design", "UX Research", "Prototyping"],
+      "education_preference": "Any degree",
+      "experience_level": "Entry Level"
+    }
+  ]
+}
