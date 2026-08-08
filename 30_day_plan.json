@@ -1,0 +1,43 @@
+{
+  "career_goal": "Software Developer",
+  "duration": "30 Days",
+  "weekly_plan": [
+    {
+      "week": 1,
+      "goal": "Strengthen Python fundamentals",
+      "tasks": [
+        "Learn Python functions",
+        "Practice loops and conditions",
+        "Solve 10 coding problems"
+      ]
+    },
+    {
+      "week": 2,
+      "goal": "Learn Data Structures",
+      "tasks": [
+        "Learn arrays",
+        "Learn strings",
+        "Practice basic data structure problems"
+      ]
+    },
+    {
+      "week": 3,
+      "goal": "Build a project",
+      "tasks": [
+        "Choose a project",
+        "Create project structure",
+        "Implement core features"
+      ]
+    },
+    {
+      "week": 4,
+      "goal": "Prepare for jobs",
+      "tasks": [
+        "Create resume",
+        "Prepare interview questions",
+        "Complete GitHub profile",
+        "Practice mock interview"
+      ]
+    }
+  ]
+}
