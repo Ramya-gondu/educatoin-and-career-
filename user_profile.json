@@ -1,0 +1,23 @@
+{
+  "user_profile": {
+    "education": "BSc Computer Science",
+    "current_status": "Student",
+    "skills": [
+      "Python Basics",
+      "C",
+      "Java"
+    ],
+    "interests": [
+      "Technology",
+      "Programming"
+    ],
+    "career_goal": "Software Developer",
+    "experience": "Fresher",
+    "career_break": false,
+    "available_time_per_day": 2,
+    "budget": "Low",
+    "learning_mode": "Online",
+    "family_responsibilities": "Moderate",
+    "preferred_language": "English"
+  }
+}
