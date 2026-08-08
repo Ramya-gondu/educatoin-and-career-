@@ -1,0 +1,71 @@
+{
+  "app_name": "SheCareer AI",
+  "problem_statement": "Education and Careers: From Aspiration to an Achievable Plan",
+  "purpose": "Help women identify realistic career opportunities, understand skill gaps, and create achievable learning plans.",
+  "career_profiles": [
+    {
+      "career": "Software Developer",
+      "required_skills": [
+        "Python",
+        "Java",
+        "Data Structures",
+        "Problem Solving",
+        "Git",
+        "SQL"
+      ],
+      "learning_duration": "4-6 months",
+      "suitable_for": [
+        "Computer Science students",
+        "Graduates",
+        "Career changers"
+      ],
+      "entry_level_roles": [
+        "Junior Software Developer",
+        "Python Developer",
+        "Java Developer"
+      ]
+    },
+    {
+      "career": "Data Analyst",
+      "required_skills": [
+        "Excel",
+        "SQL",
+        "Python",
+        "Statistics",
+        "Data Visualization"
+      ],
+      "learning_duration": "3-5 months",
+      "suitable_for": [
+        "Graduates",
+        "Students",
+        "Career returners"
+      ],
+      "entry_level_roles": [
+        "Junior Data Analyst",
+        "Business Analyst Intern",
+        "Data Analyst Intern"
+      ]
+    },
+    {
+      "career": "Digital Marketing Specialist",
+      "required_skills": [
+        "SEO",
+        "Social Media Marketing",
+        "Content Creation",
+        "Google Analytics",
+        "Communication"
+      ],
+      "learning_duration": "2-4 months",
+      "suitable_for": [
+        "Students",
+        "Graduates",
+        "Career returners"
+      ],
+      "entry_level_roles": [
+        "Digital Marketing Executive",
+        "SEO Executive",
+        "Social Media Executive"
+      ]
+    }
+  ]
+}
