@@ -1,0 +1,36 @@
+{
+  "career": "Software Developer",
+  "current_skills": [
+    "Python Basics",
+    "C",
+    "Java"
+  ],
+  "required_skills": [
+    "Python",
+    "Java",
+    "Data Structures",
+    "SQL",
+    "Git",
+    "Problem Solving"
+  ],
+  "skill_gaps": [
+    "Data Structures",
+    "SQL",
+    "Git",
+    "Advanced Python",
+    "Problem Solving"
+  ],
+  "priority": {
+    "high": [
+      "Data Structures",
+      "Problem Solving"
+    ],
+    "medium": [
+      "SQL",
+      "Git"
+    ],
+    "low": [
+      "Advanced Python"
+    ]
+  }
+}
