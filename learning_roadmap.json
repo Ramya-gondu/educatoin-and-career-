@@ -1,0 +1,49 @@
+{
+  "career": "Software Developer",
+  "roadmap": [
+    {
+      "month": 1,
+      "focus": "Programming Fundamentals",
+      "skills": [
+        "Python",
+        "Problem Solving",
+        "Basic Git"
+      ],
+      "project": "Student Management System"
+    },
+    {
+      "month": 2,
+      "focus": "Data Structures",
+      "skills": [
+        "Arrays",
+        "Strings",
+        "Linked Lists",
+        "Stacks",
+        "Queues"
+      ],
+      "project": "Library Management System"
+    },
+    {
+      "month": 3,
+      "focus": "Database and Web Basics",
+      "skills": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "Basic JavaScript"
+      ],
+      "project": "Job Portal Application"
+    },
+    {
+      "month": 4,
+      "focus": "Job Preparation",
+      "skills": [
+        "Resume Building",
+        "Interview Preparation",
+        "Aptitude",
+        "Communication"
+      ],
+      "project": "Portfolio Website"
+    }
+  ]
+}
